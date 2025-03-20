@@ -1,5 +1,5 @@
 # Flask Deployer 🚀
-A simple Flask web app containerized using Docker and deployed on Azure Web Apps.
+A simple Flask web app containerized using Docker and deployed on AWS EC2.
 
 ## Features:
 - 🐍 Flask application
